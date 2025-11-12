@@ -1,7 +1,7 @@
 # Walk Now App Support
 
 ## Contact Support
-Email: [quriv.techteam@gmail.com](mailto:quriv.techteam@gmail.com)
+Email: [support@quriv](mailto:support@quriv)
 
 ## About Walk Now
 Walk Now is a fitness rewards app that tracks your daily steps and rewards you with real money when you reach your walking goals. Stay active, earn rewards, withdraw your earnings, and connect with friends!
@@ -19,7 +19,7 @@ Walk Now is a fitness rewards app that tracks your daily steps and rewards you w
 ### Delete Your Account
 To delete your account and all associated data:
 
-1. **Contact Support**: Email us at quriv.techteam@gmail.com from your registered email address  
+1. **Contact Support**: Email us at support@quriv from your registered email address  
 2. We'll process your deletion request within **7 business days**
 
 **Note**: Account deletion is permanent and cannot be undone. All your data will be permanently removed from our systems.
@@ -39,7 +39,7 @@ The rewards wheel allows you to spin and earn random extra rewards such as coins
 Navigate to the transfer section in the app, enter the recipient's details, and confirm the amount you wish to send.
 
 ### How to Report a Bug?
-Please email us at quriv.techteam@gmail.com with:
+Please email us at support@quriv with:
 - Device model and OS version  
 - Description of the issue  
 - Steps to reproduce the problem  
@@ -88,4 +88,4 @@ Verify that:
 
 *Walk Now - Turn Your Steps Into Rewards*  
 
-**Need more help?** Email us at quriv.techteam@gmail.com
+**Need more help?** Email us at support@quriv
