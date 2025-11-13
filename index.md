@@ -1,7 +1,7 @@
 # Walk Now App Support
 
 ## Contact Support
-Email: [support@quriv](mailto:support@quriv)
+Email: [support@quriv.com](mailto:support@quriv.com)
 
 ## About Walk Now
 Walk Now is a fitness rewards app that tracks your daily steps and rewards you with real money when you reach your walking goals. Stay active, earn rewards, withdraw your earnings, and connect with friends!
@@ -14,15 +14,23 @@ Walk Now is a fitness rewards app that tracks your daily steps and rewards you w
 - **Friends System**: Connect and interact with other users 
 - **Cross-Platform**: Available on both iOS and Android  
 
-## Account Management
+## Account Deletion
 
-### Delete Your Account
-To delete your account and all associated data:
+### App or Developer Name
+Walk Now by Walk Now
 
-1. **Contact Support**: Email us at support@quriv from your registered email address  
-2. We'll process your deletion request within **7 business days**
+### Steps to Request Deletion
+To delete your Walk Now account and all associated data, please email us at **walknowapp@gmail.com** with your registered email address and the subject line: **"Account Deletion Request"**
 
-**Note**: Account deletion is permanent and cannot be undone. All your data will be permanently removed from our systems.
+### What Data Gets Deleted
+Once your identity is verified, the following data will be permanently deleted:
+* Account credentials (email, phone) 
+* Profile data (name, profile picture) 
+* Step count and activity history 
+* Wallet and rewards history 
+
+### What Data is Retained (If Any)
+For legal and fraud prevention purposes, some transaction metadata may be retained for up to 30 days before final deletion.
 
 ## Frequently Asked Questions
 
@@ -33,13 +41,13 @@ The app uses your device's built-in sensors to accurately track your steps throu
 Simply walk! When you reach your daily step goal, you'll automatically earn rewards that can be used within the app or transferred to other users.
 
 ### What is the rewards wheel?
-The rewards wheel allows you to spin and earn random extra rewards such as coins, bonuses, or special prizes.
+The rewards wheel allows you to spin and earn random extra rewards such as bonus steps or points.
 
-### How do I transfer money to other users?
-Navigate to the transfer section in the app, enter the recipient's details, and confirm the amount you wish to send.
+### How do I withdraw money?
+Navigate to the withdraw section in the app, enter your payment details, and confirm the amount you wish to withdraw.
 
 ### How to Report a Bug?
-Please email us at support@quriv with:
+Please email us at support@quriv.com with:
 - Device model and OS version  
 - Description of the issue  
 - Steps to reproduce the problem  
@@ -88,4 +96,4 @@ Verify that:
 
 *Walk Now - Turn Your Steps Into Rewards*  
 
-**Need more help?** Email us at support@quriv
+**Need more help?** Email us at support@quriv.com
