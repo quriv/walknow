@@ -59,7 +59,7 @@ Yes! We take your privacy seriously. All personal and financial data is encrypte
 ## Privacy & Data
 
 ### Privacy Policy
-[View our Privacy Policy](privacy_policy)
+[View our Privacy Policy](privacy_policy.md)
 
 ### What data do we collect?
 - Step count and activity data  
